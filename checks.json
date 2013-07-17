@@ -1,3 +1,6 @@
+[ehowell@bitstarter:~]$./grader.js --checks checks.json --url http://serene-river-1061.herokuapp.com/
+
+
 ["h1",
 ".navigation",
 ".logo",
